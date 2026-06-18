@@ -1,0 +1,21 @@
+TITLE: Standard Patient Discharge Procedure
+DEPARTMENT: Nursing Administration
+LAST REVIEWED: April 2026
+
+1. DISCHARGE READINESS CRITERIA
+A patient is considered ready for discharge when: vital signs are stable for 24 hours, pain is controlled with oral medication, the patient can tolerate oral intake, and any required mobility milestones (e.g. post-surgical ambulation) have been met.
+
+2. DISCHARGE PLANNING
+Discharge planning should begin within 24 hours of admission. The nursing team, attending physician, and (if applicable) social worker or physiotherapist coordinate to confirm home support, equipment needs, and follow-up appointments.
+
+3. MEDICATION RECONCILIATION
+Before discharge, a pharmacist or physician must reconcile the patient's home medication list against medications administered during the stay, and provide a printed updated medication list with dosing instructions.
+
+4. DISCHARGE SUMMARY
+The attending physician completes a discharge summary including: admission diagnosis, procedures performed, complications if any, discharge medications, and follow-up instructions. This must be completed within 24 hours of discharge and sent to the patient's primary care provider.
+
+5. PATIENT EDUCATION
+Nursing staff provide verbal and written instructions on wound care, activity restrictions, warning signs requiring return to hospital, and contact information for questions.
+
+6. TRANSPORT
+Patients without independent means of transport may request hospital-arranged transport through the patient services desk, subject to availability and clinical appropriateness.

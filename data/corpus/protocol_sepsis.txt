@@ -1,0 +1,23 @@
+TITLE: Adult Sepsis Management Protocol
+DEPARTMENT: Emergency Medicine
+LAST REVIEWED: March 2026
+
+1. SCREENING
+All patients presenting with suspected infection must be screened using qSOFA criteria within 10 minutes of triage. qSOFA criteria: respiratory rate >= 22/min, altered mentation (GCS < 15), systolic blood pressure <= 100 mmHg. A score of 2 or more triggers the sepsis pathway.
+
+2. INITIAL ACTIONS (within 1 hour)
+- Draw blood cultures from two separate sites before starting antibiotics.
+- Measure serum lactate.
+- Begin broad-spectrum antibiotics (piperacillin-tazobactam 4.5g IV, or per local resistance pattern).
+- Start crystalloid fluid resuscitation: 30 mL/kg IV bolus if lactate > 4 mmol/L or patient is hypotensive.
+
+3. REASSESSMENT (within 3 hours)
+- Repeat lactate if initial value was elevated.
+- Reassess volume status and tissue perfusion.
+- If hypotension persists after fluids, begin vasopressor therapy (norepinephrine first line) to maintain MAP >= 65 mmHg.
+
+4. ESCALATION
+Any patient not responding to initial fluid resuscitation should be referred to the ICU team within 1 hour of recognition of fluid non-responsiveness.
+
+5. DOCUMENTATION
+All time-stamps for blood culture draw, antibiotic administration, and fluid bolus must be logged in the sepsis order set for quality audit purposes.

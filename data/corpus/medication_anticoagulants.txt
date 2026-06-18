@@ -1,0 +1,22 @@
+TITLE: Medication Reference Sheet - Anticoagulants
+DEPARTMENT: Pharmacy
+LAST REVIEWED: January 2026
+
+WARFARIN
+Indication: prevention of thromboembolism in atrial fibrillation, mechanical heart valves, venous thromboembolism.
+Dosing: initial 5 mg orally once daily, adjusted according to INR. Target INR for most indications is 2.0-3.0; for mechanical mitral valves, target INR is 2.5-3.5.
+Monitoring: INR checked every 4-6 weeks once stable, more frequently during initiation or dose changes.
+Key interactions: NSAIDs increase bleeding risk; antibiotics such as metronidazole and fluconazole increase INR; vitamin K rich foods decrease effect.
+Reversal: vitamin K (oral or IV) for non-urgent reversal; 4-factor prothrombin complex concentrate for urgent reversal with active bleeding.
+
+APIXABAN (Eliquis)
+Indication: stroke prevention in non-valvular atrial fibrillation, treatment and prevention of VTE.
+Dosing: standard dose 5 mg twice daily; reduced dose 2.5 mg twice daily if two of the following apply: age >= 80, body weight <= 60 kg, serum creatinine >= 1.5 mg/dL.
+Monitoring: routine coagulation monitoring not required; renal function checked annually or more often if impaired.
+Reversal: andexanet alfa if available for life-threatening bleeding; otherwise supportive care.
+
+HEPARIN (unfractionated)
+Indication: acute anticoagulation in ACS, PE, DVT; bridging therapy.
+Dosing: weight-based bolus followed by continuous infusion, titrated to aPTT 1.5-2.5x control or per institutional nomogram.
+Monitoring: aPTT every 6 hours until therapeutic, then daily. Platelet count monitored for heparin-induced thrombocytopenia (HIT).
+Reversal: protamine sulfate.
